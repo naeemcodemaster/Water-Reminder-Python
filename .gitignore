@@ -8,3 +8,6 @@ venv/
 .env
 Notes.txt
 notes.txt
+
+build
+dist
