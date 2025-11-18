@@ -77,6 +77,4 @@ MIT License
 - I’ve used your GitHub URL for the clone command.  
 - The interval is set in the code (currently 1 minute for testing).  
 - Instructions include running in dev mode and building `.exe`.  
-
-If you want, I can also **add badges** for Python version, license, and PyPI package (`win11toast`) to make it look more professional like your Pomodoro README. Do you want me to do that next?
 ```
