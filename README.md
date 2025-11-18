@@ -74,7 +74,7 @@ MIT License
 ```
 
 ✅ Notes:  
-- I’ve used your GitHub URL for the clone command.  
+- Clone this repository to get started:
 - The interval is set in the code (currently 1 minute for testing).  
 - Instructions include running in dev mode and building `.exe`.  
 ```
